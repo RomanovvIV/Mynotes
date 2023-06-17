@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pinItem"
+        android:title="@string/note_pin" />
+    <item
+        android:id="@+id/deleteItem"
+        android:title="@string/note_delete" />
+    <item
+        android:id="@+id/shareItem"
+        android:title="@string/note_share" />
+</menu>

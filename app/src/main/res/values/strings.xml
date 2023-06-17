@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="login_text">Вход в приложение</string>
+    <string name="login_login">Логин</string>
+    <string name="login_password">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="login_empty">Данные не введены</string>
+    <string name="login_error">Не удалось войти</string>
+    <string name="note_search">Поиск</string>
+    <string name="note_create">Новая заметка</string>
+    <string name="note_title">Название заметки</string>
+    <string name="note_text">Текст заметки</string>
+    <string name="note_title_required">Назвнание не может быть пустым</string>
+    <string name="note_text_required">Текст не может быть пустым</string>
+    <string name="note_save">Сохранить</string>
+    <string name="note_pinned">Закреплено</string>
+    <string name="note_pin">Закрепить</string>
+    <string name="note_unpin">Открепить</string>
+    <string name="note_delete">Удалить</string>
+    <string name="note_share">Поделиться</string>
+    <string name="note_share_format">%s:\n\n%s</string>
+</resources>
